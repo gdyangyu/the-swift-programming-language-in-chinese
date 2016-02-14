@@ -1,1 +1,5 @@
 .DS_Store
+_book
+node_modules
+push_and_deploy.sh
+
